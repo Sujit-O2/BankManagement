@@ -1,18 +1,25 @@
-## Getting Started
+# 🏦 ATM Banking System using Java Swing
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📝 Description
+A GUI-based banking simulation system built using **Java Swing**.  
+It allows users to log in, deposit, withdraw, check balance, and generate mini-statements.  
+This project was developed during my internship at **InternPe** as part of hands-on Java GUI training.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🚀 Features
+- 🔐 User login & authentication  
+- 💰 Deposit and withdraw functionality  
+- 💳 Balance inquiry in real-time  
+- 🧾 Mini-statement generation  
+- 🪟 Interactive and user-friendly Swing interface  
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🔧 Technologies Used
+- **Java**
+- **Java Swing**
+- **Object-Oriented Programming (OOP)**
+- **GUI Development**
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
